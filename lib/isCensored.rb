@@ -1,4 +1,4 @@
-class isCensored
+class IsCensored
     def self.check(input)
         
         # Create dictionary for swear word replacement
