@@ -1,0 +1,2 @@
+# CensorGem
+Simple censorship gem
